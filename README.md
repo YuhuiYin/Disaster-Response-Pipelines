@@ -1,5 +1,4 @@
 # Disaster-Response-Pipelines
-Data Science Project Two
 
 ## Installation
 The following libraries should be installed:
