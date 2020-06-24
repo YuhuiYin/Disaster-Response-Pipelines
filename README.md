@@ -11,10 +11,10 @@ It is important for emergency workers to categorize messages so that they can se
 There are three folders available here to showcase work related to this project:\
 1.**data** : There are two oringinal data documents, one database path and an ETL pipeline that cleans data and stores in database.\
 2.**models** : There is a ML pipeline that trains classifier and saves.\
-3.**app** : There are two HTML documents and one python document to run the Web App.\
+3.**app** : There are two HTML documents and one python document to run the Web App.
 
 ## Instructions for running files
-1. Run the following commands in the project's root directory to set up database and model.\
+1. Run the following commands in the project's root directory to set up database and model.
 
     - To run ETL pipeline that cleans data and stores in database
         `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
