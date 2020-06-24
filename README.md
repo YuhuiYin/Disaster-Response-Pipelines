@@ -1,7 +1,7 @@
 # Disaster-Response-Pipelines
 
 ## Installation
-The following libraries should be installed:
+The following libraries should be installed:\
 json, plotly, nltk, flask, sklearn, sys, pickle, re and sqlalchemy.
 
 ## Project Motivation
